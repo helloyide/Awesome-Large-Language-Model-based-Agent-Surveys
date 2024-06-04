@@ -1,4 +1,4 @@
-# Awsome Large Language Model-based Agent Surveys
+# Awesome Large Language Model-based Agent Surveys
 
 ## Introduction
 
